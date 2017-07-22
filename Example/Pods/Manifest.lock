@@ -1,0 +1,16 @@
+PODS:
+  - SimpleShowView (0.1.0)
+
+DEPENDENCIES:
+  - SimpleShowView (from `~/Desktop/SimpleShowView`)
+
+EXTERNAL SOURCES:
+  SimpleShowView:
+    :path: ~/Desktop/SimpleShowView
+
+SPEC CHECKSUMS:
+  SimpleShowView: 0bced6babfa2ceeb4fd605f1e37629f42c704f30
+
+PODFILE CHECKSUM: aad47c8b4d0e967e91cac8675ac03680235a7ea4
+
+COCOAPODS: 1.2.1

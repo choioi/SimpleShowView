@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import SimpleShowView
+//import SimpleShowView
 
 class Tests: XCTestCase {
     
