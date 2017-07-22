@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SimpleShowView_Example' do
+  pod 'SimpleShowView', :path => '../'
+
+  target 'SimpleShowView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
